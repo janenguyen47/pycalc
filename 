@@ -1,0 +1,23 @@
+[33mcommit 1a4d86df179a245e8c63f8532d8266e59764ee4d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jane Nguyen <jane.nguyen1@monash.edu>
+Date:   Mon Nov 25 10:54:22 2024 +1100
+
+    Added it support for subtraction
+
+[33mcommit e6b404cd43c74714012234c709f49a7853066a93[m
+Author: Jane Nguyen <jane.nguyen1@monash.edu>
+Date:   Mon Nov 25 10:47:27 2024 +1100
+
+    Return none, not 0 on invalid input
+
+[33mcommit 209f6e03b213d92472d34cd1e21c08ed40083151[m
+Author: Jane Nguyen <jane.nguyen1@monash.edu>
+Date:   Mon Nov 25 10:41:26 2024 +1100
+
+    Initial work on a Python string calculator
+
+[33mcommit e35bf8bb4385e3913c80a06f1d4066fa19bcee54[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: janenguyen47 <171133684+janenguyen47@users.noreply.github.com>
+Date:   Mon Nov 25 10:19:03 2024 +1100
+
+    Initial commit
