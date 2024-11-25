@@ -1,5 +1,6 @@
 # Perform simple arithmetic encoded in an input string:
 # '1 + 2' -> 3, or '1 - 2' -> -1.
+# added more notes
 def compute(expression):
     values = expression.split(' ')
     num0 = int(values[0])
